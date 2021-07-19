@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(to right, cornflowerblue, cadetblue, cyan);
+}
+
+.header {
+    text-align: center;
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-family: Verdana, cursive;
+    color: linen;
+    padding: 10px;
+}
+
+.window {
+    text-align: center;
+    padding: 2%;
+}
+
+textarea {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.calculate-section {
+    text-align: center;
+}
+
+button {
+    font-size: 2rem;
+    cursor: pointer;
+    background-color: darkred;
+    color: cornsilk;
+    border-radius: 14px;
+}
+
+button:hover {
+    background-color: navy;
+    color: cornsilk;
+}
+
+.stats {
+    text-align: center;
+    padding: 2%;
+    font-size: 5rem;
+    color: yellow;
+    font-weight: bold;
+}
